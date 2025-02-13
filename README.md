@@ -28,10 +28,10 @@ Automate bulk email creation with **Outlook** using **VBA** or **Python**! This 
 3. Copy and paste the **VBA Code** from [VBA Code File](vba_script.bas).
 4. Create an **Excel Sheet ("Data")** structured as:
 
-| Client Code | Attachment Path        |
+| Recipient Codes | Attachment Path        |
 |------------|----------------------|
-| CLIENT001  | C:\path\to\file1.pdf |
-| CLIENT002  | C:\path\to\file2.docx |
+| CODE001  | C:\path\to\file1.pdf |
+| CODE002  | C:\path\to\file2.docx |
 
 5. Run the macro **`OpenEmailForm`** to launch the form.
 
