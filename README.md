@@ -25,7 +25,7 @@ Automate bulk email creation with **Outlook** using **VBA** or **Python**! This 
    - `lstClients` (ListBox for Client Codes & Attachments)
    - `btnLoadClients` (Button to Load Clients from Excel)
    - `btnGenerateEmails` (Button to Generate Outlook Drafts)
-3. Copy and paste the **VBA Code** from [VBA Code File](vba_script.bas).
+3. Copy and paste the **VBA Code** from [VBA Code File](emaildraft.vb).
 4. Create an **Excel Sheet ("Data")** structured as:
 
 | Recipient Codes | Attachment Path        |
