@@ -2,14 +2,14 @@
 
 ![Bulk Email Generator](https://img.shields.io/badge/Status-Working-brightgreen.svg) ![GitHub stars](https://img.shields.io/github/stars/your-repo.svg)
 
-Automate bulk email creation with **Outlook** using **VBA** or **Python**! This tool allows users to generate email drafts dynamically based on a list of **client codes** and **attachments**.
+Automate bulk email creation with **Outlook** using **VBA** or **Python**! This tool allows users to generate email drafts dynamically based on a list of **RecipientCodes** and **attachments**.
 
 ---
 
 ## 📌 Features
 ✅ Generate bulk Outlook drafts dynamically  
-✅ Append **Client Code** to email **Subject**  
-✅ Load **Client Codes** & **Attachments** from an Excel sheet  
+✅ Append **RecipientCodes** to email **Subject**  
+✅ Load **RecipientCodes** & **Attachments** from an Excel sheet  
 ✅ Works with both **VBA (Excel User Form)** & **Python (Flask App)**  
 ✅ Supports **PythonAnywhere Hosting**
 
