@@ -68,3 +68,7 @@ This project is **open-source** under the [MIT License](LICENSE).
 ## 💙 Support & Contributions
 Have suggestions or improvements? Feel free to **fork** & **contribute**! 🚀  
 📩 Contact: [@wan_azhar on X](https://x.com/wan_azhar)
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/wanazhar">wanazhar</a></p>
